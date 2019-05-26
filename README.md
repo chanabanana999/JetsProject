@@ -25,6 +25,7 @@ This program does *not* do input validation to make sure the values entered are 
 3. My appreciation for our instructors' help only grows with every assignment!
 
 #### UML Diagram
+
 ![UML](JetsProjUML.jpg)
 
 
