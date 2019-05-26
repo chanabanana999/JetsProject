@@ -1,0 +1,7 @@
+Boeing 737-900, 578, 3000, 68000000, cargo
+Learjet 60, 521, 2783, 3245000, cargo
+Fokker 100, 525, 1522, 30000000, fighter
+Lockheed F-35, 1200, 1200, 122000000, fighter
+Sukhoi Su-57, 1516, 3418, 50000000, fighter
+MadeUpJet3000, 3000, 1790, 60000000, fighter
+Lockheed C130, 368, 2361, 30000000, cargo
